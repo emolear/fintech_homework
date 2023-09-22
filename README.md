@@ -21,8 +21,6 @@
 
 **Intended Customers:** Square's primary customers are businesses of all sizes, with a particular focus on SMEs. The market size for SMEs is vast, providing substantial growth potential.
 
-**Unfair Advantage:** Square's unfair advantage lies in its user-friendly payment solutions, including the Square Reader, and its ability to serve businesses often underserved by traditional financial institutions.
-
 **Technologies Used:** Square utilizes various technologies, including mobile app development, point-of-sale (POS) hardware, cloud-based payment processing, and data analytics. These technologies enable seamless payment processing and data-driven insights for businesses.
 
 ## Landscape
