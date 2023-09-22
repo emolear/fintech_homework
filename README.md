@@ -13,7 +13,7 @@
 
 **Idea Generation:** The idea for Square came about when Jim McKelvey, a glassblower, lost a sale because he couldn't accept credit card payments. He discussed this issue with Jack Dorsey, who was a co-founder of Twitter, and together they came up with the concept of Square.
 
-**Funding:** Square has received significant funding over the years. As of [current year], it has raised over $5 billion in funding through various rounds, including venture capital and its initial public offering (IPO).
+**Funding:** Square has received significant funding over the years. As of 2023, it has raised over $5 billion in funding through various rounds, including venture capital and its initial public offering (IPO).
 
 ## Business Activities
 
